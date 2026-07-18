@@ -37,5 +37,5 @@ Learn basic Git commands.
 
 ``` git swtich -c branch_name  ``` --> Shortcut to create and new branch and switch to it. 
 
-#### Merge conficts happens when same file has been changed in different branches and push to main, then auto merge fails. /nManual intervention is required to do file commit.
+#### Merge conficts happens when same file has been changed in different branches and push to main, then auto merge fails. /n Manual intervention is required to do file commit.
 
