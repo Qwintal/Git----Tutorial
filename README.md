@@ -48,3 +48,12 @@ Learn basic Git commands.
 ```  git stash pop ``` --> Retreive all chagnes from stash to working tree, stash will be empty ( if new terminal opens press q to return back )
 
 ``` git stash apply ``` --> Push all changes in stash to main branch but also keep them in stash. 
+
+``` git tag -a first -m 'first" ``` --> Annotated tag ( has more details about commit ).
+
+``` git tag second ``` --> Light weight tag.
+
+``` git tag ``` --> See all tags.
+
+``` git log --oneline -4 ``` --> Latest 4 commits
+
