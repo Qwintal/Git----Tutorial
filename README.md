@@ -37,5 +37,14 @@ Learn basic Git commands.
 
 ``` git swtich -c branch_name  ``` --> Shortcut to create and new branch and switch to it. 
 
-#### Merge conficts happens when same file has been changed in different branches and push to main, then auto merge fails. Manual intervention is required to do file commit.
+#### Merge conficts happens when same file has been changed in different branches and push to main, then auto merge fails. Manual intervention is required to do final commit.
 
+#### Stashing --> To temporary store changes without pushing into main branch.
+
+``` git stash ``` --> Save changes in stash.
+
+``` git stash list ``` --> List of saves in stash.
+
+```  git stash pop ``` --> Retreive all chagnes from stash to working tree, stash will be empty ( if new terminal opens press q to return back )
+
+``` git stash apply ``` --> Push all changes in stash to main branch but also keep them in stash. 
