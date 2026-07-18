@@ -2,8 +2,8 @@
 Learn basic Git commands.
 
 
-```git init```
-#### Gits starts tracking that folder, making it a repository.
+```git init``` #### Gits starts tracking that folder, making it a repository.
+
 
 git status
 # check which files are being tracked.
