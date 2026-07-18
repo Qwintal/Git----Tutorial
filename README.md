@@ -57,3 +57,8 @@ Learn basic Git commands.
 
 ``` git log --oneline -4 ``` --> Latest 4 commits
 
+#### Rebase
+git rebase is a command used to integrate changes from one branch into another by moving or "replaying" your sequence of commits on top of a new base commit. Unlike git merge which combines branches by creating a new, separate "merge commit," rebasing completely rewrites your branch's commit history to make it perfectly linear.
+
+``` git rebase main ``` --> Rebase feature branch into main.
+
