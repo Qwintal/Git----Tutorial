@@ -62,3 +62,10 @@ git rebase is a command used to integrate changes from one branch into another b
 
 ``` git rebase main ``` --> Rebase feature branch into main.
 
+``` git clone ... ``` --> Copy repo.
+
+``` git push ``` --> Push into github. 
+
+``` git pull ``` --> Pulls all changes in.
+
+
