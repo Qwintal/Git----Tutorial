@@ -68,5 +68,5 @@ git rebase is a command used to integrate changes from one branch into another b
 
 ``` git pull ``` --> Pulls all changes in.
 
-#### A fork means taking a copy of existing software to develop it independently.
+#### A fork means taking a copy of existing repository to develop it independently.
 
